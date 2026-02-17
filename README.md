@@ -119,9 +119,5 @@ If you'd like to connect or collaborate:
 
 📧 Email: meghakhakha148@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
-
-🌐 Portfolio: your-portfolio-link
-
 ⭐ Support
 If you like this repository, please consider giving it a ⭐ on GitHub!
